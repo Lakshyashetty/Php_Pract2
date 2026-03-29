@@ -54,6 +54,7 @@
  ```sql
    create table emp_register(name varchar(30),job_title(30),salary double);
    ```
+## <p align="center"> Q1&2 </p>
 
    ## ▶️ Insert Page
 <p align="center"> <img src="images/insert.png" width="45%"> </p>
@@ -83,10 +84,12 @@
  ## ▶️ Insert Page
 <p align="center"> <img src="images/insertQ3.png" width="45%"> </p>
 <p align="center"> <img src="images/insertQ3_db.png" width="45%"> </p>
+
 ----------------------------------------------------------
 
  ## ▶️ Retrieve Page
 <p align="center"> <img src="images/retrieve.png" width="45%"> </p>
+
 ----------------------------------------------------------------
 
 ## <p align="center"> Q4 </p>
