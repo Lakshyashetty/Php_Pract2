@@ -39,7 +39,6 @@
 - Start *MySQL*
 
 ### 2. Create Database
-```
  
  ```sql
    create database employee_db;   
